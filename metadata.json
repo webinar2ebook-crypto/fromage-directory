@@ -1,0 +1,6 @@
+{
+  "name": "The Fromage Directory",
+  "description": "A clean, simple practice directory website featuring three world-famous cheeses with origin details and tasting profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
